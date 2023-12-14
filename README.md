@@ -23,7 +23,7 @@
 ---
 **Entre em contato comigo no Discord**
 
-[![Discord](https://img.shields.io/discord/789580325088790528?style=for-the-badge&logo=discord&label=Entre%20em%20contato&color=green)](https://discord.gg/789580325088790528)
+[![Discord](https://img.shields.io/discord/587071204901257227?style=for-the-badge&logo=discord&label=Entre%20em%20contato&color=green)](https://discord.gg/587071204901257227)
 
 
 <div align="center"> 
