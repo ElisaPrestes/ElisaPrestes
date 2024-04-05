@@ -6,7 +6,8 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ElisaPrestes&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ElisaPrestes&show_icons=true&theme=gotham#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-- 🧩 Hoje faço estágio aprendendo React Native 
+- 🧩 Experiência com React Native
+- 📟 Atualmente estagiando aprendendo SAP
 - 💚 Pronomes: Ela/Dela
 
 <div style="display: inline_block"><br>
