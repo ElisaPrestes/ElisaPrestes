@@ -3,10 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56bfa4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bruna+Elisa+Prestes+Almeida;I'm+19+years+old;I'm+from+Brazil;Im+a+systems+Development+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ElisaPrestes&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ElisaPrestes&show_icons=true&theme=gotham#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-- 🧩 Experiência com React Native
+- 🧩 Experiência com React Native & Wordpress
 - 💚 Pronomes: Ela/Dela
 
 <div style="display: inline_block"><br>
